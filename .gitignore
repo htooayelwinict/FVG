@@ -1,0 +1,26 @@
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+logs/          # Ignore the logs directory
+*.log          # Ignore all log files
+
+# Data files
+*.json
+*.txt
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp  # Vim swap files
+
+# Ignore example directory and its contents
+example/

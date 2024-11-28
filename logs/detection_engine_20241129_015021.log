@@ -1,0 +1,19 @@
+2024-11-29 01:50:26,177 - detection_engine - DEBUG - Initializing DetectionEngine with binance://BTCUSDT_M1, M1
+2024-11-29 01:50:27,340 - detection_engine - DEBUG - Cache updated for fvgs with hash da99fc8b805376b0f03526573921e3b4
+2024-11-29 01:50:27,340 - detection_engine - DEBUG - Found 15 bullish and 19 bearish FVGs
+2024-11-29 01:50:27,546 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:27,752 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:27,958 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:28,167 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:29,526 - detection_engine - DEBUG - Cache updated for fvgs with hash da99fc8b805376b0f03526573921e3b4
+2024-11-29 01:50:29,526 - detection_engine - DEBUG - Found 15 bullish and 19 bearish FVGs
+2024-11-29 01:50:29,731 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:29,938 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:30,145 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:30,350 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:31,765 - detection_engine - DEBUG - Cache updated for fvgs with hash da99fc8b805376b0f03526573921e3b4
+2024-11-29 01:50:31,765 - detection_engine - DEBUG - Found 15 bullish and 19 bearish FVGs
+2024-11-29 01:50:31,971 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:32,177 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:32,382 - detection_engine - DEBUG - Using valid cached FVG results
+2024-11-29 01:50:32,588 - detection_engine - DEBUG - Using valid cached FVG results
