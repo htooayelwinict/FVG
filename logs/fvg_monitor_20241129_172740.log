@@ -1,0 +1,21 @@
+2024-11-29 17:27:40,727 - fvg_monitor - DEBUG - Initializing FVG Monitor
+2024-11-29 17:27:43,112 - fvg_monitor - DEBUG - Starting detection thread
+2024-11-29 17:27:43,113 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:43.112991+00:00
+2024-11-29 17:27:46,166 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:46.166751+00:00
+2024-11-29 17:27:46,168 - fvg_monitor - DEBUG - Using cached FVG results
+2024-11-29 17:27:46,373 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:46.373167+00:00
+2024-11-29 17:27:46,374 - fvg_monitor - DEBUG - Using cached FVG results
+2024-11-29 17:27:46,578 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:46.578695+00:00
+2024-11-29 17:27:46,582 - fvg_monitor - DEBUG - Using cached FVG results
+2024-11-29 17:27:46,787 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:46.787450+00:00
+2024-11-29 17:27:46,788 - fvg_monitor - DEBUG - Using cached FVG results
+2024-11-29 17:27:46,993 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:46.993893+00:00
+2024-11-29 17:27:50,117 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:50.117698+00:00
+2024-11-29 17:27:50,119 - fvg_monitor - DEBUG - Using cached FVG results
+2024-11-29 17:27:50,324 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:50.324758+00:00
+2024-11-29 17:27:50,326 - fvg_monitor - DEBUG - Using cached FVG results
+2024-11-29 17:27:50,528 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:50.528756+00:00
+2024-11-29 17:27:50,530 - fvg_monitor - DEBUG - Using cached FVG results
+2024-11-29 17:27:50,733 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:50.733302+00:00
+2024-11-29 17:27:50,734 - fvg_monitor - DEBUG - Using cached FVG results
+2024-11-29 17:27:50,938 - fvg_monitor - DEBUG - Detection cycle at 2024-11-29 10:57:50.938384+00:00

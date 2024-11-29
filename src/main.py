@@ -60,7 +60,7 @@ class FVGMonitor:
         
         # Faster cache duration
         cache_duration = 1  # 1 minute for all timeframes
-        batch_size = 300    # Reduced from 300 to 200 for faster processing
+        batch_size = 300    
         
         self.detector = DetectionEngine(
             data_source=virtual_data_path,

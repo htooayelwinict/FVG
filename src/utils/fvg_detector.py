@@ -1,18 +1,14 @@
 from typing import List, Dict, Any, Tuple
 import pandas as pd
 from datetime import datetime
-from .mitigation_detector import MitigationDetector
 
 class FVGDetector:
-    def __init__(self, candles: List[Dict[str, Any]], window_size: int = 3):
+    def __init__(self, candles: List[Dict[str, Any]]):
         """
         Initialize FVG detector with candlestick data
         :param candles: List of candlestick data dictionaries with Time, Open, High, Low, Close
-        :param window_size: Size of the window to look for FVGs (default 3 for FVG pattern)
         """
         self.candles = candles
-        self.window_size = window_size
-        self.mitigation_detector = MitigationDetector(candles)
 
     def detect_fvgs_only(self) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
         """
@@ -34,7 +30,8 @@ class FVGDetector:
                         bullish_fvgs.append(fvg)
                     else:
                         bearish_fvgs.append(fvg)
-            except IndexError:
+            except IndexError and KeyError and TypeError as e:
+                print(f"Error checking FVG pattern: {str(e)}")
                 # Safety check in case we hit the end of the list
                 break
 
@@ -101,15 +98,8 @@ class FVGDetector:
         bullish_middles = [(fvg['gap_high'] + fvg['gap_low']) / 2 for fvg in bullish_fvgs]
         bearish_middles = [(fvg['gap_high'] + fvg['gap_low']) / 2 for fvg in bearish_fvgs]
         
-        print("\nMiddle Price Debug:")
-        print(f"Bullish FVGs middle prices: {bullish_middles}")
-        print(f"Bearish FVGs middle prices: {bearish_middles}")
-        
         avg_bullish_middle = sum(bullish_middles) / len(bullish_fvgs) if bullish_fvgs else 0
         avg_bearish_middle = sum(bearish_middles) / len(bearish_fvgs) if bearish_fvgs else 0
-        
-        print(f"Average Bullish Middle: {avg_bullish_middle:.2f}")
-        print(f"Average Bearish Middle: {avg_bearish_middle:.2f}")
         
         # Basic statistics
         avg_bullish_gap = sum(fvg['gap_size'] for fvg in bullish_fvgs) / len(bullish_fvgs) if bullish_fvgs else 0
