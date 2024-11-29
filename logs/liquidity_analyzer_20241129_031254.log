@@ -1,0 +1,40 @@
+2024-11-29 03:12:54,729 - liquidity_analyzer - DEBUG - Initializing MarketDataAnalyzer
+2024-11-29 03:12:54,935 - liquidity_analyzer - INFO - Successfully initialized Binance client
+2024-11-29 03:12:54,936 - liquidity_analyzer - INFO - Starting market stream for btcusdt
+2024-11-29 03:12:54,936 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:12:54,936 - liquidity_analyzer - ERROR - Error loading historical data: 'function' object has no attribute 'utc'
+2024-11-29 03:12:54,936 - liquidity_analyzer - WARNING - Historical data not loaded yet
+2024-11-29 03:12:54,936 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:12:59,937 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:12:59,937 - liquidity_analyzer - ERROR - Error loading historical data: 'function' object has no attribute 'utc'
+2024-11-29 03:12:59,938 - liquidity_analyzer - WARNING - Historical data not loaded yet
+2024-11-29 03:12:59,938 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:13:04,939 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:13:04,939 - liquidity_analyzer - ERROR - Error loading historical data: 'function' object has no attribute 'utc'
+2024-11-29 03:13:04,939 - liquidity_analyzer - WARNING - Historical data not loaded yet
+2024-11-29 03:13:04,939 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:13:09,940 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:13:09,941 - liquidity_analyzer - ERROR - Error loading historical data: 'function' object has no attribute 'utc'
+2024-11-29 03:13:09,941 - liquidity_analyzer - WARNING - Historical data not loaded yet
+2024-11-29 03:13:09,941 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:13:14,942 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:13:14,942 - liquidity_analyzer - ERROR - Error loading historical data: 'function' object has no attribute 'utc'
+2024-11-29 03:13:14,942 - liquidity_analyzer - WARNING - Historical data not loaded yet
+2024-11-29 03:13:14,942 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:13:19,944 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:13:19,944 - liquidity_analyzer - ERROR - Error loading historical data: 'function' object has no attribute 'utc'
+2024-11-29 03:13:19,944 - liquidity_analyzer - WARNING - Historical data not loaded yet
+2024-11-29 03:13:19,944 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:13:24,944 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:13:24,944 - liquidity_analyzer - ERROR - Error loading historical data: 'function' object has no attribute 'utc'
+2024-11-29 03:13:24,945 - liquidity_analyzer - WARNING - Historical data not loaded yet
+2024-11-29 03:13:24,945 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:13:29,946 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:13:29,946 - liquidity_analyzer - ERROR - Error loading historical data: 'function' object has no attribute 'utc'
+2024-11-29 03:13:29,946 - liquidity_analyzer - WARNING - Historical data not loaded yet
+2024-11-29 03:13:29,946 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:13:34,948 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:13:34,948 - liquidity_analyzer - ERROR - Error loading historical data: 'function' object has no attribute 'utc'
+2024-11-29 03:13:34,948 - liquidity_analyzer - WARNING - Historical data not loaded yet
+2024-11-29 03:13:34,948 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:13:35,772 - liquidity_analyzer - INFO - Shutting down gracefully...

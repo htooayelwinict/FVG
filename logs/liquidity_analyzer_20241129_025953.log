@@ -1,0 +1,13 @@
+2024-11-29 02:59:53,444 - liquidity_analyzer - DEBUG - Initializing MarketDataAnalyzer
+2024-11-29 02:59:53,642 - liquidity_analyzer - INFO - Successfully initialized Binance client
+2024-11-29 02:59:53,642 - liquidity_analyzer - INFO - Starting market stream for btcusdt
+2024-11-29 02:59:53,642 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 02:59:53,769 - liquidity_analyzer - INFO - Loaded 1000 historical trades
+2024-11-29 02:59:53,777 - liquidity_analyzer - INFO - Historical data verification passed
+2024-11-29 02:59:59,208 - liquidity_analyzer - INFO - Processed 100 messages
+2024-11-29 03:00:02,760 - liquidity_analyzer - INFO - Processed 200 messages
+2024-11-29 03:00:03,468 - liquidity_analyzer - INFO - Processed 300 messages
+2024-11-29 03:00:15,684 - liquidity_analyzer - INFO - Shutting down gracefully...
+2024-11-29 03:00:15,717 - liquidity_analyzer - ERROR - Error processing message: Event loop is closed
+2024-11-29 03:00:15,717 - liquidity_analyzer - ERROR - Stream error: 'ClientConnection' object has no attribute 'fail_connection'
+2024-11-29 03:00:15,717 - liquidity_analyzer - INFO - Reconnecting to WebSocket stream...

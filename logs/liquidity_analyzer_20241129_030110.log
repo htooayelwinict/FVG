@@ -1,0 +1,9 @@
+2024-11-29 03:01:10,757 - liquidity_analyzer - DEBUG - Initializing MarketDataAnalyzer
+2024-11-29 03:01:11,029 - liquidity_analyzer - INFO - Successfully initialized Binance client
+2024-11-29 03:01:11,030 - liquidity_analyzer - INFO - Starting market stream for btcusdt
+2024-11-29 03:01:11,030 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:01:11,175 - liquidity_analyzer - INFO - Loaded 1000 historical trades
+2024-11-29 03:01:11,183 - liquidity_analyzer - INFO - Historical data verification passed
+2024-11-29 03:01:18,172 - liquidity_analyzer - INFO - Processed 100 messages
+2024-11-29 03:01:23,340 - liquidity_analyzer - INFO - Processed 200 messages
+2024-11-29 03:01:26,051 - liquidity_analyzer - INFO - Processed 300 messages

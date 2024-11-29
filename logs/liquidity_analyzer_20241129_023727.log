@@ -1,0 +1,190 @@
+2024-11-29 02:37:27,928 - liquidity_analyzer - DEBUG - Initializing OrderBookAnalyzer
+2024-11-29 02:37:28,130 - liquidity_analyzer - INFO - Successfully initialized Binance client
+2024-11-29 02:37:28,130 - liquidity_analyzer - DEBUG - Fetching order book for BTCUSDT
+2024-11-29 02:37:28,259 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:28,259 - liquidity_analyzer - INFO - Successfully processed order book for BTCUSDT
+2024-11-29 02:37:28,259 - liquidity_analyzer - INFO - Initial order book snapshot obtained for BTCUSDT
+2024-11-29 02:37:28,259 - liquidity_analyzer - INFO - Starting WebSocket stream for BTCUSDT
+2024-11-29 02:37:28,260 - liquidity_analyzer - INFO - Starting WebSocket stream for btcusdt
+2024-11-29 02:37:28,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:28,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572877999
+2024-11-29 02:37:29,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:29,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572878076
+2024-11-29 02:37:30,974 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:30,974 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572878223
+2024-11-29 02:37:31,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:31,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572878429
+2024-11-29 02:37:32,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:32,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572878534
+2024-11-29 02:37:33,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:33,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572878961
+2024-11-29 02:37:34,968 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:34,968 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572879214
+2024-11-29 02:37:35,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:35,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572879353
+2024-11-29 02:37:36,967 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:36,967 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572879479
+2024-11-29 02:37:37,968 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:37,968 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572879688
+2024-11-29 02:37:38,973 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:38,973 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572882421
+2024-11-29 02:37:39,967 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:39,967 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572882767
+2024-11-29 02:37:40,963 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:40,963 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572883079
+2024-11-29 02:37:41,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:41,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572884005
+2024-11-29 02:37:42,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:42,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572884166
+2024-11-29 02:37:43,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:43,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572884492
+2024-11-29 02:37:44,963 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:44,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572884723
+2024-11-29 02:37:45,970 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:45,970 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572886204
+2024-11-29 02:37:46,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:46,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572886547
+2024-11-29 02:37:47,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:47,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572886690
+2024-11-29 02:37:48,963 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:48,963 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572886804
+2024-11-29 02:37:49,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:49,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572887230
+2024-11-29 02:37:50,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:50,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572887382
+2024-11-29 02:37:51,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:51,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572887511
+2024-11-29 02:37:52,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:52,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572887596
+2024-11-29 02:37:53,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:53,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572887711
+2024-11-29 02:37:54,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:54,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572887802
+2024-11-29 02:37:55,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:55,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572887901
+2024-11-29 02:37:56,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:56,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572887999
+2024-11-29 02:37:57,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:57,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572888037
+2024-11-29 02:37:58,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:58,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572888102
+2024-11-29 02:37:59,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:37:59,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572888273
+2024-11-29 02:38:00,963 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:00,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572888368
+2024-11-29 02:38:01,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:01,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572888596
+2024-11-29 02:38:02,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:02,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572888768
+2024-11-29 02:38:03,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:03,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572888973
+2024-11-29 02:38:04,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:04,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889067
+2024-11-29 02:38:05,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:05,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889166
+2024-11-29 02:38:06,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:06,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889240
+2024-11-29 02:38:07,963 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:07,963 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889309
+2024-11-29 02:38:08,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:08,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889369
+2024-11-29 02:38:09,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:09,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889447
+2024-11-29 02:38:10,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:10,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889510
+2024-11-29 02:38:11,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:11,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889605
+2024-11-29 02:38:12,963 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:12,963 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889671
+2024-11-29 02:38:13,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:13,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889837
+2024-11-29 02:38:14,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:14,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572889944
+2024-11-29 02:38:15,963 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:15,963 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890038
+2024-11-29 02:38:16,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:16,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890146
+2024-11-29 02:38:17,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:17,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890246
+2024-11-29 02:38:18,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:18,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890345
+2024-11-29 02:38:19,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:19,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890429
+2024-11-29 02:38:20,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:20,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890559
+2024-11-29 02:38:21,963 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:21,963 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890694
+2024-11-29 02:38:22,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:22,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890736
+2024-11-29 02:38:23,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:23,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890771
+2024-11-29 02:38:24,968 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:24,968 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890813
+2024-11-29 02:38:25,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:25,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890886
+2024-11-29 02:38:26,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:26,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572890989
+2024-11-29 02:38:27,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:27,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572891070
+2024-11-29 02:38:28,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:28,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572891503
+2024-11-29 02:38:29,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:29,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572891740
+2024-11-29 02:38:30,968 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:30,968 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572891956
+2024-11-29 02:38:31,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:31,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572892302
+2024-11-29 02:38:32,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:32,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572892564
+2024-11-29 02:38:33,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:33,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572892692
+2024-11-29 02:38:34,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:34,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572892843
+2024-11-29 02:38:35,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:35,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572893067
+2024-11-29 02:38:36,970 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:36,970 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572894648
+2024-11-29 02:38:37,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:37,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572895010
+2024-11-29 02:38:38,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:38,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572895310
+2024-11-29 02:38:39,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:39,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572895419
+2024-11-29 02:38:40,968 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:40,968 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572896181
+2024-11-29 02:38:41,967 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:41,967 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572896334
+2024-11-29 02:38:42,969 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:42,969 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572897295
+2024-11-29 02:38:43,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:43,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572897548
+2024-11-29 02:38:44,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:44,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572897876
+2024-11-29 02:38:45,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:45,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572898212
+2024-11-29 02:38:46,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:46,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572898391
+2024-11-29 02:38:47,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:47,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572899249
+2024-11-29 02:38:48,964 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:48,964 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572899372
+2024-11-29 02:38:49,967 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:49,967 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572899538
+2024-11-29 02:38:50,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:50,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572899758
+2024-11-29 02:38:51,966 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:51,966 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572899874
+2024-11-29 02:38:52,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:52,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572900003
+2024-11-29 02:38:53,967 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:53,967 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572900313
+2024-11-29 02:38:54,971 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:54,971 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572900614
+2024-11-29 02:38:55,967 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:55,967 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572900795
+2024-11-29 02:38:56,967 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:56,967 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572901010
+2024-11-29 02:38:57,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:57,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572901154
+2024-11-29 02:38:58,965 - liquidity_analyzer - DEBUG - Saved order book data to /Users/lewisae/Documents/VSCode/C-137/flight-test-2/data/order_book_BTCUSDT.json
+2024-11-29 02:38:58,965 - liquidity_analyzer - DEBUG - Processed WebSocket update 55572901435

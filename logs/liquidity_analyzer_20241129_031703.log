@@ -1,0 +1,15 @@
+2024-11-29 03:17:03,886 - liquidity_analyzer - DEBUG - Initializing MarketDataAnalyzer
+2024-11-29 03:17:04,091 - liquidity_analyzer - INFO - Successfully initialized Binance client
+2024-11-29 03:17:04,091 - liquidity_analyzer - INFO - Starting market stream for btcusdt
+2024-11-29 03:17:04,091 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:17:04,231 - liquidity_analyzer - INFO - Loaded 1000 historical trades
+2024-11-29 03:17:04,233 - liquidity_analyzer - WARNING - Found outdated trade data: 2024-11-27 20:47:04 UTC
+2024-11-29 03:17:04,233 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:17:09,234 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:17:09,367 - liquidity_analyzer - INFO - Loaded 1000 historical trades
+2024-11-29 03:17:09,368 - liquidity_analyzer - WARNING - Found outdated trade data: 2024-11-27 20:47:04 UTC
+2024-11-29 03:17:09,368 - liquidity_analyzer - ERROR - Historical data verification failed
+2024-11-29 03:17:14,370 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:17:14,510 - liquidity_analyzer - INFO - Loaded 1000 historical trades
+2024-11-29 03:17:14,511 - liquidity_analyzer - WARNING - Found outdated trade data: 2024-11-27 20:47:04 UTC
+2024-11-29 03:17:14,511 - liquidity_analyzer - ERROR - Historical data verification failed

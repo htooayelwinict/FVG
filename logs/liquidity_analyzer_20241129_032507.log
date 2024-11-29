@@ -1,0 +1,31 @@
+2024-11-29 03:25:07,805 - liquidity_analyzer - DEBUG - Initializing MarketDataAnalyzer
+2024-11-29 03:25:08,065 - liquidity_analyzer - INFO - Successfully initialized Binance client
+2024-11-29 03:25:08,065 - liquidity_analyzer - INFO - Starting market stream for btcusdt
+2024-11-29 03:25:08,065 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:25:08,189 - liquidity_analyzer - INFO - Retrieved 1000 valid trades within the last 24 hours
+2024-11-29 03:25:08,194 - liquidity_analyzer - INFO - Successfully processed 1000 historical trades
+2024-11-29 03:25:08,201 - liquidity_analyzer - INFO - Historical data verification passed
+2024-11-29 03:25:14,532 - liquidity_analyzer - INFO - Processed 100 messages
+2024-11-29 03:25:15,943 - liquidity_analyzer - INFO - Processed 200 messages
+2024-11-29 03:25:17,352 - liquidity_analyzer - INFO - Processed 300 messages
+2024-11-29 03:25:19,796 - liquidity_analyzer - INFO - Processed 400 messages
+2024-11-29 03:25:50,427 - liquidity_analyzer - WARNING - WebSocket message timeout, reconnecting...
+2024-11-29 03:25:50,429 - liquidity_analyzer - ERROR - Stream error: 'ClientConnection' object has no attribute 'fail_connection'
+2024-11-29 03:25:50,429 - liquidity_analyzer - INFO - Reconnecting to WebSocket stream...
+2024-11-29 03:25:55,430 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:25:55,561 - liquidity_analyzer - INFO - Retrieved 998 valid trades within the last 24 hours
+2024-11-29 03:25:55,569 - liquidity_analyzer - INFO - Successfully processed 998 historical trades
+2024-11-29 03:25:55,591 - liquidity_analyzer - INFO - Historical data verification passed
+2024-11-29 03:26:03,367 - liquidity_analyzer - INFO - Processed 100 messages
+2024-11-29 03:26:06,848 - liquidity_analyzer - INFO - Processed 200 messages
+2024-11-29 03:26:38,089 - liquidity_analyzer - WARNING - WebSocket message timeout, reconnecting...
+2024-11-29 03:26:38,090 - liquidity_analyzer - ERROR - Stream error: 'ClientConnection' object has no attribute 'fail_connection'
+2024-11-29 03:26:38,090 - liquidity_analyzer - INFO - Reconnecting to WebSocket stream...
+2024-11-29 03:26:43,091 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
+2024-11-29 03:26:43,313 - liquidity_analyzer - INFO - Retrieved 1000 valid trades within the last 24 hours
+2024-11-29 03:26:43,323 - liquidity_analyzer - INFO - Successfully processed 1000 historical trades
+2024-11-29 03:26:43,352 - liquidity_analyzer - INFO - Historical data verification passed
+2024-11-29 03:26:48,967 - liquidity_analyzer - INFO - Processed 100 messages
+2024-11-29 03:27:19,318 - liquidity_analyzer - WARNING - WebSocket message timeout, reconnecting...
+2024-11-29 03:27:19,319 - liquidity_analyzer - ERROR - Stream error: 'ClientConnection' object has no attribute 'fail_connection'
+2024-11-29 03:27:19,319 - liquidity_analyzer - INFO - Reconnecting to WebSocket stream...
