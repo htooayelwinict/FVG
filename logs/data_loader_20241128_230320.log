@@ -1,4 +1,0 @@
-2024-11-28 23:03:20,299 - data_loader - DEBUG - Initializing BinanceDataLoader
-2024-11-28 23:03:20,986 - data_loader - DEBUG - Latest price for BTCUSDT: 95256.69
-2024-11-28 23:03:36,387 - data_loader - DEBUG - Latest price for BTCUSDT: 95248.01
-2024-11-28 23:03:51,779 - data_loader - DEBUG - Latest price for BTCUSDT: 95272.04

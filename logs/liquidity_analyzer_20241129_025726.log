@@ -1,8 +1,0 @@
-2024-11-29 02:57:26,764 - liquidity_analyzer - DEBUG - Initializing MarketDataAnalyzer
-2024-11-29 02:57:26,977 - liquidity_analyzer - INFO - Successfully initialized Binance client
-2024-11-29 02:57:26,978 - liquidity_analyzer - INFO - Starting market data stream for BTCUSDT
-2024-11-29 02:57:26,978 - liquidity_analyzer - INFO - Starting market stream for btcusdt
-2024-11-29 02:57:26,978 - liquidity_analyzer - INFO - Loading 24-hour trade history for BTCUSDT
-2024-11-29 02:57:27,108 - liquidity_analyzer - INFO - Loaded 1000 historical trades
-2024-11-29 02:57:27,117 - liquidity_analyzer - INFO - Historical data verification passed
-2024-11-29 02:59:52,678 - liquidity_analyzer - ERROR - Error running analyzer: 'ClientConnection' object has no attribute 'fail_connection'
