@@ -1,0 +1,150 @@
+2024-12-16 21:57:37,979 - data_loader - DEBUG - Initializing BinanceDataLoader
+2024-12-16 21:57:47,374 - data_loader - DEBUG - Initializing BinanceDataLoader
+2024-12-16 21:57:49,414 - data_loader - DEBUG - Latest price for BTCUSDT: 106443.83
+2024-12-16 21:57:49,861 - data_loader - DEBUG - Latest price for BTCUSDT: 106443.83
+2024-12-16 21:57:49,879 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:57:50,232 - data_loader - DEBUG - Latest price for BTCUSDT: 106443.83
+2024-12-16 21:57:50,618 - data_loader - DEBUG - Latest price for BTCUSDT: 106443.82
+2024-12-16 21:57:50,948 - data_loader - DEBUG - Latest price for BTCUSDT: 106443.82
+2024-12-16 21:57:51,476 - data_loader - DEBUG - Latest price for BTCUSDT: 106443.82
+2024-12-16 21:57:51,931 - data_loader - DEBUG - Latest price for BTCUSDT: 106443.83
+2024-12-16 21:57:52,377 - data_loader - DEBUG - Latest price for BTCUSDT: 106443.83
+2024-12-16 21:57:52,955 - data_loader - DEBUG - Latest price for BTCUSDT: 106430.0
+2024-12-16 21:57:53,438 - data_loader - DEBUG - Latest price for BTCUSDT: 106430.01
+2024-12-16 21:57:53,444 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:57:53,732 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.71
+2024-12-16 21:57:54,374 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.71
+2024-12-16 21:57:54,683 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.71
+2024-12-16 21:57:55,099 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.71
+2024-12-16 21:57:55,585 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.72
+2024-12-16 21:57:55,917 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.71
+2024-12-16 21:57:56,390 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.71
+2024-12-16 21:57:56,684 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.71
+2024-12-16 21:57:57,149 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:57:57,155 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.72
+2024-12-16 21:57:57,560 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.71
+2024-12-16 21:57:58,150 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.71
+2024-12-16 21:57:58,557 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.72
+2024-12-16 21:57:59,289 - data_loader - DEBUG - Latest price for BTCUSDT: 106435.71
+2024-12-16 21:57:59,721 - data_loader - DEBUG - Latest price for BTCUSDT: 106426.72
+2024-12-16 21:58:00,302 - data_loader - DEBUG - Latest price for BTCUSDT: 106425.84
+2024-12-16 21:58:00,713 - data_loader - DEBUG - Latest price for BTCUSDT: 106424.0
+2024-12-16 21:58:00,737 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:01,056 - data_loader - DEBUG - Latest price for BTCUSDT: 106424.0
+2024-12-16 21:58:01,422 - data_loader - DEBUG - Latest price for BTCUSDT: 106423.05
+2024-12-16 21:58:01,754 - data_loader - DEBUG - Latest price for BTCUSDT: 106410.58
+2024-12-16 21:58:02,190 - data_loader - DEBUG - Latest price for BTCUSDT: 106404.01
+2024-12-16 21:58:02,568 - data_loader - DEBUG - Latest price for BTCUSDT: 106404.01
+2024-12-16 21:58:03,190 - data_loader - DEBUG - Latest price for BTCUSDT: 106404.0
+2024-12-16 21:58:03,508 - data_loader - DEBUG - Latest price for BTCUSDT: 106383.68
+2024-12-16 21:58:04,040 - data_loader - DEBUG - Latest price for BTCUSDT: 106383.17
+2024-12-16 21:58:04,443 - data_loader - DEBUG - Latest price for BTCUSDT: 106383.17
+2024-12-16 21:58:04,468 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:04,952 - data_loader - DEBUG - Latest price for BTCUSDT: 106383.17
+2024-12-16 21:58:05,244 - data_loader - DEBUG - Latest price for BTCUSDT: 106383.17
+2024-12-16 21:58:05,666 - data_loader - DEBUG - Latest price for BTCUSDT: 106383.17
+2024-12-16 21:58:05,985 - data_loader - DEBUG - Latest price for BTCUSDT: 106384.01
+2024-12-16 21:58:06,609 - data_loader - DEBUG - Latest price for BTCUSDT: 106384.01
+2024-12-16 21:58:07,026 - data_loader - DEBUG - Latest price for BTCUSDT: 106383.66
+2024-12-16 21:58:07,583 - data_loader - DEBUG - Latest price for BTCUSDT: 106383.19
+2024-12-16 21:58:07,920 - data_loader - DEBUG - Latest price for BTCUSDT: 106383.19
+2024-12-16 21:58:08,010 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:08,330 - data_loader - DEBUG - Latest price for BTCUSDT: 106380.0
+2024-12-16 21:58:08,640 - data_loader - DEBUG - Latest price for BTCUSDT: 106356.52
+2024-12-16 21:58:08,953 - data_loader - DEBUG - Latest price for BTCUSDT: 106356.52
+2024-12-16 21:58:09,356 - data_loader - DEBUG - Latest price for BTCUSDT: 106356.01
+2024-12-16 21:58:09,826 - data_loader - DEBUG - Latest price for BTCUSDT: 106356.01
+2024-12-16 21:58:10,131 - data_loader - DEBUG - Latest price for BTCUSDT: 106356.01
+2024-12-16 21:58:10,493 - data_loader - DEBUG - Latest price for BTCUSDT: 106356.01
+2024-12-16 21:58:10,920 - data_loader - DEBUG - Latest price for BTCUSDT: 106336.22
+2024-12-16 21:58:11,232 - data_loader - DEBUG - Latest price for BTCUSDT: 106336.22
+2024-12-16 21:58:11,483 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:11,496 - data_loader - DEBUG - Latest price for BTCUSDT: 106336.22
+2024-12-16 21:58:12,029 - data_loader - DEBUG - Latest price for BTCUSDT: 106336.23
+2024-12-16 21:58:12,356 - data_loader - DEBUG - Latest price for BTCUSDT: 106324.0
+2024-12-16 21:58:12,965 - data_loader - DEBUG - Latest price for BTCUSDT: 106324.0
+2024-12-16 21:58:13,355 - data_loader - DEBUG - Latest price for BTCUSDT: 106320.01
+2024-12-16 21:58:13,760 - data_loader - DEBUG - Latest price for BTCUSDT: 106312.01
+2024-12-16 21:58:14,285 - data_loader - DEBUG - Latest price for BTCUSDT: 106312.01
+2024-12-16 21:58:14,689 - data_loader - DEBUG - Latest price for BTCUSDT: 106312.01
+2024-12-16 21:58:15,027 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:15,069 - data_loader - DEBUG - Latest price for BTCUSDT: 106312.0
+2024-12-16 21:58:15,516 - data_loader - DEBUG - Latest price for BTCUSDT: 106312.0
+2024-12-16 21:58:15,863 - data_loader - DEBUG - Latest price for BTCUSDT: 106308.0
+2024-12-16 21:58:16,199 - data_loader - DEBUG - Latest price for BTCUSDT: 106292.73
+2024-12-16 21:58:16,549 - data_loader - DEBUG - Latest price for BTCUSDT: 106292.72
+2024-12-16 21:58:17,069 - data_loader - DEBUG - Latest price for BTCUSDT: 106292.73
+2024-12-16 21:58:17,553 - data_loader - DEBUG - Latest price for BTCUSDT: 106292.01
+2024-12-16 21:58:18,097 - data_loader - DEBUG - Latest price for BTCUSDT: 106292.0
+2024-12-16 21:58:18,595 - data_loader - DEBUG - Latest price for BTCUSDT: 106292.0
+2024-12-16 21:58:18,617 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:18,958 - data_loader - DEBUG - Latest price for BTCUSDT: 106276.0
+2024-12-16 21:58:19,586 - data_loader - DEBUG - Latest price for BTCUSDT: 106272.12
+2024-12-16 21:58:20,108 - data_loader - DEBUG - Latest price for BTCUSDT: 106260.84
+2024-12-16 21:58:20,488 - data_loader - DEBUG - Latest price for BTCUSDT: 106260.83
+2024-12-16 21:58:20,858 - data_loader - DEBUG - Latest price for BTCUSDT: 106241.37
+2024-12-16 21:58:21,301 - data_loader - DEBUG - Latest price for BTCUSDT: 106241.37
+2024-12-16 21:58:21,849 - data_loader - DEBUG - Latest price for BTCUSDT: 106241.38
+2024-12-16 21:58:22,326 - data_loader - DEBUG - Latest price for BTCUSDT: 106241.37
+2024-12-16 21:58:22,350 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:22,915 - data_loader - DEBUG - Latest price for BTCUSDT: 106233.85
+2024-12-16 21:58:23,348 - data_loader - DEBUG - Latest price for BTCUSDT: 106228.7
+2024-12-16 21:58:23,772 - data_loader - DEBUG - Latest price for BTCUSDT: 106248.0
+2024-12-16 21:58:24,372 - data_loader - DEBUG - Latest price for BTCUSDT: 106256.94
+2024-12-16 21:58:24,793 - data_loader - DEBUG - Latest price for BTCUSDT: 106283.99
+2024-12-16 21:58:25,205 - data_loader - DEBUG - Latest price for BTCUSDT: 106283.99
+2024-12-16 21:58:25,517 - data_loader - DEBUG - Latest price for BTCUSDT: 106288.0
+2024-12-16 21:58:25,948 - data_loader - DEBUG - Latest price for BTCUSDT: 106287.99
+2024-12-16 21:58:26,121 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:26,315 - data_loader - DEBUG - Latest price for BTCUSDT: 106288.0
+2024-12-16 21:58:26,622 - data_loader - DEBUG - Latest price for BTCUSDT: 106300.0
+2024-12-16 21:58:26,948 - data_loader - DEBUG - Latest price for BTCUSDT: 106299.99
+2024-12-16 21:58:27,251 - data_loader - DEBUG - Latest price for BTCUSDT: 106299.99
+2024-12-16 21:58:27,865 - data_loader - DEBUG - Latest price for BTCUSDT: 106306.03
+2024-12-16 21:58:28,292 - data_loader - DEBUG - Latest price for BTCUSDT: 106316.0
+2024-12-16 21:58:28,695 - data_loader - DEBUG - Latest price for BTCUSDT: 106336.22
+2024-12-16 21:58:29,096 - data_loader - DEBUG - Latest price for BTCUSDT: 106336.21
+2024-12-16 21:58:29,389 - data_loader - DEBUG - Latest price for BTCUSDT: 106344.0
+2024-12-16 21:58:29,713 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:29,751 - data_loader - DEBUG - Latest price for BTCUSDT: 106343.99
+2024-12-16 21:58:30,094 - data_loader - DEBUG - Latest price for BTCUSDT: 106343.99
+2024-12-16 21:58:30,408 - data_loader - DEBUG - Latest price for BTCUSDT: 106344.0
+2024-12-16 21:58:30,798 - data_loader - DEBUG - Latest price for BTCUSDT: 106343.99
+2024-12-16 21:58:31,094 - data_loader - DEBUG - Latest price for BTCUSDT: 106343.99
+2024-12-16 21:58:31,434 - data_loader - DEBUG - Latest price for BTCUSDT: 106343.99
+2024-12-16 21:58:31,828 - data_loader - DEBUG - Latest price for BTCUSDT: 106343.99
+2024-12-16 21:58:32,263 - data_loader - DEBUG - Latest price for BTCUSDT: 106343.99
+2024-12-16 21:58:32,605 - data_loader - DEBUG - Latest price for BTCUSDT: 106343.99
+2024-12-16 21:58:33,198 - data_loader - DEBUG - Latest price for BTCUSDT: 106343.99
+2024-12-16 21:58:33,543 - data_loader - DEBUG - Latest price for BTCUSDT: 106344.0
+2024-12-16 21:58:33,550 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:33,930 - data_loader - DEBUG - Latest price for BTCUSDT: 106344.0
+2024-12-16 21:58:34,367 - data_loader - DEBUG - Latest price for BTCUSDT: 106353.96
+2024-12-16 21:58:34,980 - data_loader - DEBUG - Latest price for BTCUSDT: 106353.96
+2024-12-16 21:58:35,371 - data_loader - DEBUG - Latest price for BTCUSDT: 106359.0
+2024-12-16 21:58:35,682 - data_loader - DEBUG - Latest price for BTCUSDT: 106358.99
+2024-12-16 21:58:36,111 - data_loader - DEBUG - Latest price for BTCUSDT: 106359.0
+2024-12-16 21:58:36,685 - data_loader - DEBUG - Latest price for BTCUSDT: 106358.99
+2024-12-16 21:58:37,122 - data_loader - DEBUG - Latest price for BTCUSDT: 106359.0
+2024-12-16 21:58:37,327 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:37,749 - data_loader - DEBUG - Latest price for BTCUSDT: 106375.35
+2024-12-16 21:58:38,129 - data_loader - DEBUG - Latest price for BTCUSDT: 106370.9
+2024-12-16 21:58:38,657 - data_loader - DEBUG - Latest price for BTCUSDT: 106361.55
+2024-12-16 21:58:39,134 - data_loader - DEBUG - Latest price for BTCUSDT: 106356.02
+2024-12-16 21:58:39,695 - data_loader - DEBUG - Latest price for BTCUSDT: 106355.7
+2024-12-16 21:58:40,196 - data_loader - DEBUG - Latest price for BTCUSDT: 106341.12
+2024-12-16 21:58:40,541 - data_loader - DEBUG - Latest price for BTCUSDT: 106341.12
+2024-12-16 21:58:40,818 - data_loader - DEBUG - Latest price for BTCUSDT: 106341.12
+2024-12-16 21:58:41,224 - data_loader - DEBUG - Latest price for BTCUSDT: 106341.12
+2024-12-16 21:58:41,246 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:41,755 - data_loader - DEBUG - Latest price for BTCUSDT: 106331.98
+2024-12-16 21:58:42,051 - data_loader - DEBUG - Latest price for BTCUSDT: 106304.45
+2024-12-16 21:58:42,493 - data_loader - DEBUG - Latest price for BTCUSDT: 106304.45
+2024-12-16 21:58:42,957 - data_loader - DEBUG - Latest price for BTCUSDT: 106320.0
+2024-12-16 21:58:43,352 - data_loader - DEBUG - Latest price for BTCUSDT: 106319.99
+2024-12-16 21:58:43,686 - data_loader - DEBUG - Latest price for BTCUSDT: 106320.0
+2024-12-16 21:58:44,107 - data_loader - DEBUG - Latest price for BTCUSDT: 106318.05
+2024-12-16 21:58:44,541 - data_loader - DEBUG - Latest price for BTCUSDT: 106318.05
+2024-12-16 21:58:45,354 - data_loader - DEBUG - Latest price for BTCUSDT: 106318.06
+2024-12-16 21:58:45,372 - data_loader - DEBUG - Loaded 200 candles
+2024-12-16 21:58:45,883 - data_loader - DEBUG - Latest price for BTCUSDT: 106272.59

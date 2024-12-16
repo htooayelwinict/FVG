@@ -1,0 +1,2 @@
+2024-12-16 21:58:55,033 - detection_engine - DEBUG - Initializing DetectionEngine with binance://BTCUSDT_D1, D1
+2024-12-16 22:09:22,170 - detection_engine - WARNING - No candles found for BTCUSDT D1

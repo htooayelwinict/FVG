@@ -1,0 +1,21 @@
+2024-12-16 21:28:17,662 - fvg_monitor - DEBUG - Initializing FVG Monitor
+2024-12-16 21:28:22,012 - fvg_monitor - DEBUG - Starting detection thread
+2024-12-16 21:28:22,012 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:58:22.012674+00:00
+2024-12-16 21:28:26,870 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:58:26.870054+00:00
+2024-12-16 21:28:31,912 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:58:31.912802+00:00
+2024-12-16 21:28:36,750 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:58:36.750212+00:00
+2024-12-16 21:28:43,734 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:58:43.734379+00:00
+2024-12-16 21:28:49,593 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:58:49.593155+00:00
+2024-12-16 21:28:55,099 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:58:55.099456+00:00
+2024-12-16 21:29:00,074 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:00.074777+00:00
+2024-12-16 21:29:06,115 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:06.115842+00:00
+2024-12-16 21:29:11,075 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:11.075749+00:00
+2024-12-16 21:29:17,994 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:17.994691+00:00
+2024-12-16 21:29:23,034 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:23.034484+00:00
+2024-12-16 21:29:27,915 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:27.915287+00:00
+2024-12-16 21:29:32,706 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:32.706669+00:00
+2024-12-16 21:29:37,779 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:37.779780+00:00
+2024-12-16 21:29:42,948 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:42.948261+00:00
+2024-12-16 21:29:48,419 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:48.418954+00:00
+2024-12-16 21:29:53,555 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:53.555292+00:00
+2024-12-16 21:29:58,696 - fvg_monitor - DEBUG - Detection cycle at 2024-12-16 14:59:58.696044+00:00

@@ -25,6 +25,7 @@ class BinanceDataLoader:
             raise ValueError("Please set BINANCE_API_KEY and BINANCE_API_SECRET environment variables")
         
         self.client = Client(api_key, api_secret)
+        self.server_time_offset = self._get_time_offset()
         
         # Mapping for timeframe strings
         self.timeframe_mapping = {
@@ -38,18 +39,50 @@ class BinanceDataLoader:
             'D1': Client.KLINE_INTERVAL_1DAY,
         }
 
-    def load_candles(self, symbol: str = 'BTCUSDT', timeframe: str = 'D1') -> List[Dict[str, Any]]:
-        """Load 500 candles from current time"""
+        # Timeframe configurations
+        self.timeframe_config = {
+            'M1': {'candle_ms': 60 * 1000},
+            'M3': {'candle_ms': 3 * 60 * 1000},
+            'M5': {'candle_ms': 5 * 60 * 1000},
+            'M15': {'candle_ms': 15 * 60 * 1000},
+            'M30': {'candle_ms': 30 * 60 * 1000},
+            'H1': {'candle_ms': 60 * 60 * 1000},
+            'H4': {'candle_ms': 4 * 60 * 60 * 1000},
+            'D1': {'candle_ms': 24 * 60 * 60 * 1000},
+        }
+
+    def _get_time_offset(self) -> int:
+        """Get the time offset between local and server time"""
+        server_time = self.client.get_server_time()
+        local_time = int(datetime.utcnow().timestamp() * 1000)
+        return server_time['serverTime'] - local_time
+
+    def _get_current_server_time(self) -> int:
+        """Get current server time in milliseconds"""
+        local_time = int(datetime.utcnow().timestamp() * 1000)
+        return local_time + self.server_time_offset
+
+    def _get_last_forming_candle_time(self, timeframe: str) -> int:
+        """Calculate the timestamp of the last forming candle"""
+        server_time = self._get_current_server_time()
+        candle_ms = self.timeframe_config[timeframe]['candle_ms']
+        
+        # Round up to the current forming candle
+        current_candle_ms = ((server_time + candle_ms - 1) // candle_ms) * candle_ms
+        
+        return current_candle_ms
+
+    def load_candles(self, symbol: str = 'BTCUSDT', timeframe: str = 'M15') -> List[Dict[str, Any]]:
+        """Load 200 candles ending at the last forming candle"""
         try:
             interval = self.timeframe_mapping.get(timeframe)
             if not interval:
                 raise ValueError(f"Invalid timeframe: {timeframe}")
 
-            # Get current UTC time
-            current_time = datetime.utcnow()
-            end_ts = int(current_time.timestamp() * 1000)
-
-            # Fetch 500 klines from Binance
+            # Get the current forming candle time
+            end_ts = self._get_last_forming_candle_time(timeframe)
+            
+            # Fetch klines from Binance
             klines = self.client.get_historical_klines(
                 symbol=symbol,
                 interval=interval,
