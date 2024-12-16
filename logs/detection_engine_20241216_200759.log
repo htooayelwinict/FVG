@@ -1,0 +1,523 @@
+2024-12-16 20:08:13,641 - detection_engine - DEBUG - Initializing DetectionEngine with binance://BTCUSDT_M1, M1
+2024-12-16 20:08:15,007 - detection_engine - DEBUG - Cache updated for fvgs with hash 67a333da7db2cbba01c9902d8ec3b9e6
+2024-12-16 20:08:15,007 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:15,214 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:15,422 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:15,627 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:15,835 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:17,623 - detection_engine - DEBUG - Cache updated for fvgs with hash 67a333da7db2cbba01c9902d8ec3b9e6
+2024-12-16 20:08:17,623 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:17,828 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:18,034 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:18,241 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:18,445 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:20,077 - detection_engine - DEBUG - Cache updated for fvgs with hash 67a333da7db2cbba01c9902d8ec3b9e6
+2024-12-16 20:08:20,077 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:20,279 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:20,485 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:20,691 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:20,896 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:22,509 - detection_engine - DEBUG - Cache updated for fvgs with hash 67a333da7db2cbba01c9902d8ec3b9e6
+2024-12-16 20:08:22,509 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:22,711 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:22,917 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:23,124 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:23,330 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:24,879 - detection_engine - DEBUG - Cache updated for fvgs with hash 67a333da7db2cbba01c9902d8ec3b9e6
+2024-12-16 20:08:24,879 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:25,083 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:25,290 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:25,491 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:25,699 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:27,298 - detection_engine - DEBUG - Cache updated for fvgs with hash 67a333da7db2cbba01c9902d8ec3b9e6
+2024-12-16 20:08:27,298 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:27,504 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:27,708 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:27,914 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:28,122 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:29,738 - detection_engine - DEBUG - Cache updated for fvgs with hash 67a333da7db2cbba01c9902d8ec3b9e6
+2024-12-16 20:08:29,738 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:29,940 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:30,144 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:30,349 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:30,555 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:32,088 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:32,088 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:32,295 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:32,501 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:32,706 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:32,912 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:34,416 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:34,416 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:34,622 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:34,829 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:35,030 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:35,237 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:37,208 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:37,208 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:37,415 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:37,621 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:37,829 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:38,031 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:39,751 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:39,751 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:39,957 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:40,163 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:40,370 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:40,577 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:42,078 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:42,078 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:42,284 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:42,490 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:42,696 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:42,900 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:44,977 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:44,977 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:45,183 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:45,390 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:45,595 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:45,798 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:47,466 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:47,466 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:47,673 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:47,877 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:48,080 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:48,286 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:49,861 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:49,861 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:50,065 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:50,271 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:50,476 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:50,682 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:52,191 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:52,191 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:52,396 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:52,602 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:52,807 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:53,010 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:54,674 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:54,675 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:54,880 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:55,086 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:55,291 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:55,496 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:57,116 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:57,116 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:57,322 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:57,526 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:57,732 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:57,936 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:59,437 - detection_engine - DEBUG - Cache updated for fvgs with hash 88a1b1326202f678bc8e6f77de0ccc8b
+2024-12-16 20:08:59,437 - detection_engine - DEBUG - Found 12 bullish and 13 bearish FVGs
+2024-12-16 20:08:59,644 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:08:59,848 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:00,055 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:00,261 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:01,827 - detection_engine - DEBUG - Cache updated for fvgs with hash f0ec49a8adebafb6406f31aee10050d3
+2024-12-16 20:09:01,827 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:02,035 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:02,242 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:02,447 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:02,649 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:04,249 - detection_engine - DEBUG - Cache updated for fvgs with hash f0ec49a8adebafb6406f31aee10050d3
+2024-12-16 20:09:04,249 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:04,456 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:04,662 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:04,865 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:05,071 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:06,625 - detection_engine - DEBUG - Cache updated for fvgs with hash a0ff9874f309f087681c22680333ba20
+2024-12-16 20:09:06,625 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:06,832 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:07,035 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:07,241 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:07,445 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:09,016 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:09,016 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:09,223 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:09,428 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:09,633 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:09,840 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:11,390 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:11,390 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:11,598 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:11,803 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:12,006 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:12,211 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:13,803 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:13,803 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:14,009 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:14,217 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:14,425 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:14,631 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:16,187 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:16,187 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:16,394 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:16,598 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:16,800 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:17,007 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:18,588 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:18,588 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:18,794 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:19,001 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:19,208 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:19,410 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:20,993 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:20,993 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:21,199 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:21,402 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:21,609 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:21,815 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:23,405 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:23,405 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:23,613 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:23,820 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:24,025 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:24,230 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:25,795 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:25,795 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:26,001 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:26,207 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:26,412 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:26,613 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:28,200 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:28,200 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:28,407 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:28,612 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:28,819 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:29,025 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:30,568 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:30,568 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:30,775 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:30,981 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:31,188 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:31,395 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:32,995 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:32,995 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:33,198 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:33,403 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:33,608 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:33,810 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:35,896 - detection_engine - DEBUG - Cache updated for fvgs with hash 260c19c0dc21c05f876617dae4a8c18c
+2024-12-16 20:09:35,896 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:36,100 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:36,304 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:36,509 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:36,713 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:38,281 - detection_engine - DEBUG - Cache updated for fvgs with hash 1e7b502e71750827b3c422ac41217802
+2024-12-16 20:09:38,282 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:38,488 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:38,694 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:38,897 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:39,100 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:40,691 - detection_engine - DEBUG - Cache updated for fvgs with hash 1e7b502e71750827b3c422ac41217802
+2024-12-16 20:09:40,691 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:40,894 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:41,099 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:41,303 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:41,510 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:43,058 - detection_engine - DEBUG - Cache updated for fvgs with hash 1e7b502e71750827b3c422ac41217802
+2024-12-16 20:09:43,058 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:43,264 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:43,471 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:43,674 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:43,881 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:45,493 - detection_engine - DEBUG - Cache updated for fvgs with hash 1e7b502e71750827b3c422ac41217802
+2024-12-16 20:09:45,493 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:45,695 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:45,898 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:46,102 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:46,306 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:47,879 - detection_engine - DEBUG - Cache updated for fvgs with hash 1e7b502e71750827b3c422ac41217802
+2024-12-16 20:09:47,879 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:48,086 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:48,292 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:48,495 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:48,699 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:50,237 - detection_engine - DEBUG - Cache updated for fvgs with hash 1e7b502e71750827b3c422ac41217802
+2024-12-16 20:09:50,237 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:50,446 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:50,653 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:50,855 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:51,060 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:53,506 - detection_engine - DEBUG - Cache updated for fvgs with hash 1e7b502e71750827b3c422ac41217802
+2024-12-16 20:09:53,506 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:53,711 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:53,913 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:54,115 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:54,316 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:55,892 - detection_engine - DEBUG - Cache updated for fvgs with hash 1e7b502e71750827b3c422ac41217802
+2024-12-16 20:09:55,892 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:56,096 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:56,302 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:56,506 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:56,713 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:58,367 - detection_engine - DEBUG - Cache updated for fvgs with hash 1e7b502e71750827b3c422ac41217802
+2024-12-16 20:09:58,367 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:09:58,574 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:58,778 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:58,984 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:09:59,191 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:00,732 - detection_engine - DEBUG - Cache updated for fvgs with hash 589b433d50902b551e064442ca872522
+2024-12-16 20:10:00,732 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:00,934 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:01,139 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:01,345 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:01,551 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:03,265 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:03,265 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:03,472 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:03,675 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:03,879 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:04,085 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:05,696 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:05,696 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:05,903 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:06,110 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:06,317 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:06,519 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:08,277 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:08,277 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:08,485 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:08,691 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:08,897 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:09,101 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:10,664 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:10,664 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:10,870 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:11,075 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:11,279 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:11,486 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:13,057 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:13,057 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:13,263 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:13,468 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:13,682 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:13,888 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:15,629 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:15,629 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:15,836 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:16,041 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:16,247 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:16,449 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:18,025 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:18,025 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:18,232 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:18,441 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:18,648 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:18,854 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:24,527 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:24,528 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:24,740 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:24,946 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:25,151 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:25,356 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:26,961 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:26,961 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:27,167 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:27,369 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:27,574 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:27,780 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:29,447 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:29,447 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:29,653 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:29,855 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:30,056 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:30,263 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:31,974 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:31,975 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:32,181 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:32,386 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:32,589 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:32,794 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:34,564 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:34,564 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:34,772 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:34,975 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:35,181 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:35,386 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:36,986 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:36,986 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:37,198 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:37,405 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:37,609 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:37,814 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:39,402 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:39,402 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:39,609 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:39,812 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:40,015 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:40,216 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:41,929 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:41,929 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:42,130 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:42,335 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:42,542 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:42,744 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:44,734 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:44,734 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:44,942 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:45,148 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:45,354 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:45,561 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:47,212 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:47,212 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:47,420 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:47,628 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:47,831 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:48,035 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:49,682 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:49,682 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:49,889 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:50,096 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:50,302 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:50,510 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:52,102 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:52,102 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:52,308 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:52,514 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:52,721 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:52,927 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:54,732 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:54,732 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:54,939 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:55,146 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:55,354 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:55,561 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:57,193 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:57,193 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:57,400 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:57,606 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:57,810 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:58,017 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:10:59,597 - detection_engine - DEBUG - Cache updated for fvgs with hash 8e745ab17f21d383134024f4aa70aefc
+2024-12-16 20:10:59,597 - detection_engine - DEBUG - Found 12 bullish and 14 bearish FVGs
+2024-12-16 20:10:59,803 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:00,006 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:00,211 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:00,413 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:02,081 - detection_engine - DEBUG - Cache updated for fvgs with hash de8bf2ecbf642d3fdb5df8198594a04e
+2024-12-16 20:11:02,081 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:02,287 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:02,489 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:02,694 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:02,901 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:04,512 - detection_engine - DEBUG - Cache updated for fvgs with hash de8bf2ecbf642d3fdb5df8198594a04e
+2024-12-16 20:11:04,512 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:04,719 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:04,922 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:05,124 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:05,329 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:06,926 - detection_engine - DEBUG - Cache updated for fvgs with hash de8bf2ecbf642d3fdb5df8198594a04e
+2024-12-16 20:11:06,926 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:07,132 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:07,335 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:07,538 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:07,740 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:09,452 - detection_engine - DEBUG - Cache updated for fvgs with hash de8bf2ecbf642d3fdb5df8198594a04e
+2024-12-16 20:11:09,452 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:09,659 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:09,864 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:10,071 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:10,278 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:11,968 - detection_engine - DEBUG - Cache updated for fvgs with hash de8bf2ecbf642d3fdb5df8198594a04e
+2024-12-16 20:11:11,968 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:12,174 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:12,376 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:12,581 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:12,784 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:14,415 - detection_engine - DEBUG - Cache updated for fvgs with hash de8bf2ecbf642d3fdb5df8198594a04e
+2024-12-16 20:11:14,415 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:14,623 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:14,827 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:15,033 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:15,238 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:16,881 - detection_engine - DEBUG - Cache updated for fvgs with hash de8bf2ecbf642d3fdb5df8198594a04e
+2024-12-16 20:11:16,881 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:17,087 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:17,294 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:17,496 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:17,702 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:19,549 - detection_engine - DEBUG - Cache updated for fvgs with hash de8bf2ecbf642d3fdb5df8198594a04e
+2024-12-16 20:11:19,550 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:19,756 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:19,960 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:20,168 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:20,369 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:21,998 - detection_engine - DEBUG - Cache updated for fvgs with hash 5f24c4bfd33f44941dad9fa25cedfeb7
+2024-12-16 20:11:21,998 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:22,205 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:22,409 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:22,617 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:22,824 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:24,434 - detection_engine - DEBUG - Cache updated for fvgs with hash 5f24c4bfd33f44941dad9fa25cedfeb7
+2024-12-16 20:11:24,434 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:24,641 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:24,846 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:25,053 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:25,261 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:26,908 - detection_engine - DEBUG - Cache updated for fvgs with hash 5f24c4bfd33f44941dad9fa25cedfeb7
+2024-12-16 20:11:26,908 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:27,114 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:27,321 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:27,528 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:27,735 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:29,385 - detection_engine - DEBUG - Cache updated for fvgs with hash 5f24c4bfd33f44941dad9fa25cedfeb7
+2024-12-16 20:11:29,385 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:29,591 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:29,794 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:29,997 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:30,200 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:31,787 - detection_engine - DEBUG - Cache updated for fvgs with hash 5f24c4bfd33f44941dad9fa25cedfeb7
+2024-12-16 20:11:31,787 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:31,994 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:32,197 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:32,404 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:32,612 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:34,308 - detection_engine - DEBUG - Cache updated for fvgs with hash 5f24c4bfd33f44941dad9fa25cedfeb7
+2024-12-16 20:11:34,308 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:34,515 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:34,719 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:34,926 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:35,133 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:36,801 - detection_engine - DEBUG - Cache updated for fvgs with hash e56a18d0c1dcd714e4ea97fece6eeb0c
+2024-12-16 20:11:36,801 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:37,008 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:37,210 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:37,417 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:37,624 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:39,217 - detection_engine - DEBUG - Cache updated for fvgs with hash dae9eaf5dca41616a13c273ca873cd7b
+2024-12-16 20:11:39,217 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:39,425 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:39,629 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:39,836 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:40,043 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:41,627 - detection_engine - DEBUG - Cache updated for fvgs with hash dae9eaf5dca41616a13c273ca873cd7b
+2024-12-16 20:11:41,627 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:41,833 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:42,038 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:42,240 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:42,447 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:44,260 - detection_engine - DEBUG - Cache updated for fvgs with hash dae9eaf5dca41616a13c273ca873cd7b
+2024-12-16 20:11:44,260 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:44,467 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:44,674 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:44,881 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:45,084 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:46,695 - detection_engine - DEBUG - Cache updated for fvgs with hash dae9eaf5dca41616a13c273ca873cd7b
+2024-12-16 20:11:46,695 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:46,902 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:47,107 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:47,312 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:47,519 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:49,123 - detection_engine - DEBUG - Cache updated for fvgs with hash dae9eaf5dca41616a13c273ca873cd7b
+2024-12-16 20:11:49,123 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:49,330 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:49,535 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:49,739 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:49,944 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:51,641 - detection_engine - DEBUG - Cache updated for fvgs with hash dae9eaf5dca41616a13c273ca873cd7b
+2024-12-16 20:11:51,641 - detection_engine - DEBUG - Found 13 bullish and 14 bearish FVGs
+2024-12-16 20:11:51,848 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:52,055 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:52,262 - detection_engine - DEBUG - Using valid cached FVG results
+2024-12-16 20:11:52,464 - detection_engine - DEBUG - Using valid cached FVG results
