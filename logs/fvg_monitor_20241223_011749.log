@@ -1,0 +1,35 @@
+2024-12-23 01:17:49,687 - fvg_monitor - DEBUG - Initializing FVG Monitor
+2024-12-23 01:17:56,174 - fvg_monitor - DEBUG - Starting detection thread
+2024-12-23 01:17:56,174 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:47:56.174515+00:00
+2024-12-23 01:18:05,089 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:48:05.089393+00:00
+2024-12-23 01:18:14,401 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:48:14.401054+00:00
+2024-12-23 01:18:23,659 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:48:23.659963+00:00
+2024-12-23 01:18:33,816 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:48:33.816793+00:00
+2024-12-23 01:18:43,091 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:48:43.091469+00:00
+2024-12-23 01:18:52,691 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:48:52.691070+00:00
+2024-12-23 01:19:01,727 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:49:01.727959+00:00
+2024-12-23 01:19:10,823 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:49:10.823388+00:00
+2024-12-23 01:19:19,899 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:49:19.899138+00:00
+2024-12-23 01:19:29,275 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:49:29.275180+00:00
+2024-12-23 01:19:38,469 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:49:38.469736+00:00
+2024-12-23 01:19:47,656 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:49:47.656870+00:00
+2024-12-23 01:19:56,868 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:49:56.868713+00:00
+2024-12-23 01:20:06,161 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:50:06.161961+00:00
+2024-12-23 01:20:15,373 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:50:15.373852+00:00
+2024-12-23 01:20:24,547 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:50:24.547441+00:00
+2024-12-23 01:20:33,764 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:50:33.764021+00:00
+2024-12-23 01:20:42,992 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:50:42.992160+00:00
+2024-12-23 01:20:57,995 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:50:57.995917+00:00
+2024-12-23 01:21:10,045 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:51:10.045055+00:00
+2024-12-23 01:21:22,046 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:51:22.046143+00:00
+2024-12-23 01:21:33,364 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:51:33.364805+00:00
+2024-12-23 01:21:42,401 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:51:42.401967+00:00
+2024-12-23 01:21:51,725 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:51:51.724992+00:00
+2024-12-23 01:22:00,898 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:52:00.898378+00:00
+2024-12-23 01:22:10,172 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:52:10.172876+00:00
+2024-12-23 01:22:19,405 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:52:19.405130+00:00
+2024-12-23 01:22:28,711 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:52:28.711923+00:00
+2024-12-23 01:22:37,947 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:52:37.947417+00:00
+2024-12-23 01:22:47,122 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:52:47.122793+00:00
+2024-12-23 01:22:56,471 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:52:56.471625+00:00
+2024-12-23 01:23:08,105 - fvg_monitor - DEBUG - Detection cycle at 2024-12-22 18:53:08.105926+00:00

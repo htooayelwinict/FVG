@@ -10,6 +10,7 @@ import os
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from src.utils.logger import setup_logger
+from datetime import timezone
 
 load_dotenv()
 logger = setup_logger('data_loader')
@@ -63,17 +64,17 @@ class BinanceDataLoader:
         return local_time + self.server_time_offset
 
     def _get_last_forming_candle_time(self, timeframe: str) -> int:
-        """Calculate the timestamp of the last forming candle"""
+        """Calculate the timestamp of the last completed candle"""
         server_time = self._get_current_server_time()
         candle_ms = self.timeframe_config[timeframe]['candle_ms']
         
-        # Round up to the current forming candle
-        current_candle_ms = ((server_time + candle_ms - 1) // candle_ms) * candle_ms
+        # Round down to get the last completed candle
+        last_completed_candle_ms = (server_time // candle_ms) * candle_ms
         
-        return current_candle_ms
+        return last_completed_candle_ms
 
     def load_candles(self, symbol: str = 'BTCUSDT', timeframe: str = 'M15') -> List[Dict[str, Any]]:
-        """Load 200 candles ending at the last forming candle"""
+        """Load 200 candles ending at the last completed candle"""
         try:
             interval = self.timeframe_mapping.get(timeframe)
             if not interval:
@@ -93,34 +94,18 @@ class BinanceDataLoader:
             if not klines:
                 return []
 
-            # Convert to DataFrame
-            df = pd.DataFrame(klines, columns=[
-                'Time', 'Open', 'High', 'Low', 'Close', 'Volume',
-                'Close_time', 'Quote_volume', 'Trades', 'Taker_buy_base',
-                'Taker_buy_quote', 'Ignore'
-            ])
-
-            # Convert types and ensure UTC timezone
-            df['Time'] = pd.to_datetime(df['Time'], unit='ms', utc=True)
-            numeric_columns = ['Open', 'High', 'Low', 'Close', 'Volume']
-            for col in numeric_columns:
-                df[col] = pd.to_numeric(df[col], errors='coerce')
-
-            # Sort in reverse chronological order (newest first)
-            df = df.sort_values('Time', ascending=False)
-
-            # Convert to dictionary format with UTC times
+            # Direct conversion to dictionary without DataFrame
+            # Process in reverse order (newest first) during creation
             data = []
-            for _, row in df.iterrows():
-                candle = {
-                    'Time': row['Time'].strftime('%Y-%m-%d %H:%M:%S UTC'),
-                    'Open': float(row['Open']),
-                    'High': float(row['High']),
-                    'Low': float(row['Low']),
-                    'Close': float(row['Close']),
-                    'Volume': float(row['Volume'])
-                }
-                data.append(candle)
+            for kline in reversed(klines):
+                data.append({
+                    'Time': datetime.fromtimestamp(kline[0]/1000, tz=timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC'),
+                    'Open': float(kline[1]),
+                    'High': float(kline[2]),
+                    'Low': float(kline[3]),
+                    'Close': float(kline[4]),
+                    'Volume': float(kline[5])
+                })
 
             logger.debug(f"Loaded {len(data)} candles")
             return data

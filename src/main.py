@@ -76,7 +76,7 @@ class FVGMonitor:
                     })
                     self.last_fvg_update = current_time
                 
-                time.sleep(0.2)  # Check every 0.2 seconds
+                time.sleep(1)  # Check every 1 second
                 
             except Exception as e:
                 logger.error(f"Detection thread error: {str(e)}", exc_info=True)
@@ -95,7 +95,7 @@ class FVGMonitor:
                         'time': current_time.strftime('%Y-%m-%d %H:%M:%S UTC')
                     })
                     consecutive_errors = 0
-                    time.sleep(0.1)
+                    time.sleep(0.2)
                 else:
                     consecutive_errors += 1
                     time.sleep(min(0.2 * (1.5 ** consecutive_errors), 2.0))
@@ -152,11 +152,11 @@ class FVGMonitor:
                         bearish_fvgs=self.bearish_fvgs
                     )
                 
-                time.sleep(0.05)
+                time.sleep(1)
                 
             except Exception as e:
                 logger.error(f"Display thread error: {str(e)}", exc_info=True)
-                time.sleep(0.1)
+                time.sleep(1)
 
     def handle_exit(self, signum, frame):
         """Handle exit signal"""
