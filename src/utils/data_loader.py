@@ -88,7 +88,7 @@ class BinanceDataLoader:
                 symbol=symbol,
                 interval=interval,
                 end_str=end_ts,
-                limit=200
+                limit=350
             )
 
             if not klines:

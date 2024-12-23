@@ -1,0 +1,5 @@
+2024-12-24 00:20:42,107 - detection_engine - DEBUG - Initializing DetectionEngine with binance://BTCUSDT_M15, M15
+2024-12-24 01:11:01,299 - detection_engine - WARNING - No candles found for BTCUSDT M15
+2024-12-24 01:23:14,607 - detection_engine - WARNING - No candles found for BTCUSDT M15
+2024-12-24 01:23:25,267 - detection_engine - WARNING - No candles found for BTCUSDT M15
+2024-12-24 01:39:42,486 - detection_engine - WARNING - No candles found for BTCUSDT M15

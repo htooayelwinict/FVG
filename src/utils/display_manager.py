@@ -101,7 +101,19 @@ class DisplayManager:
     
     def _display_mitigated_fvgs(self, mitigated_bullish: List[Dict[str, Any]], mitigated_bearish: List[Dict[str, Any]]):
         sys.stdout.write(self.term.white_on_blue("\n Recent Mitigations ".ljust(self.term.width)) + "\n")
-        sys.stdout.write(f"{'#':^4} {'Date':^12} {'Formation → Mitigation':^25} {'Type':^8} {'Gap Range':^30} {'Time':^10}\n")
+        
+        # Column headers with adjusted widths
+        headers = (
+            f"{'#':^4} "
+            f"{'Form Date':^12} "
+            f"{'Form Time':^10} "
+            f"{'Mit Date':^12} "
+            f"{'Mit Time':^10} "
+            f"{'Type':^6} "
+            f"{'Gap Range':^20} "
+            f"{'Hours':^8}"
+        )
+        sys.stdout.write(headers + "\n")
         sys.stdout.write("-" * self.term.width + "\n")
         
         all_mitigated = []
@@ -109,8 +121,8 @@ class DisplayManager:
             if fvg.get('first_mitigation_time'):
                 all_mitigated.append(fvg)
         
-        # Sort by formation time ascending (newest to oldest)
-        all_mitigated.sort(key=lambda x: x['time'], reverse=True)
+        # Sort by mitigation time ascending (newest to oldest)
+        all_mitigated.sort(key=lambda x: x['first_mitigation_time'], reverse=True)
         
         for idx, fvg in enumerate(all_mitigated, 1):  # Start counting from 1
             is_bullish = fvg in mitigated_bullish
@@ -118,17 +130,22 @@ class DisplayManager:
             direction = "▲" if is_bullish else "▼"
             form_date = fvg['time'].split()[0]
             form_time = fvg['time'].split()[1]
+            mit_date = fvg['first_mitigation_time'].split()[0]
             mit_time = fvg['first_mitigation_time'].split()[1]
-            time_to_mit = f"{fvg['time_to_mitigation']:.2f}h" if fvg.get('time_to_mitigation') else "N/A"
+            time_to_mit = f"{fvg['time_to_mitigation']:.2f}" if fvg.get('time_to_mitigation') else "N/A"
             
-            sys.stdout.write(color(
-                f"{idx:^4} "  # Add numerical index
+            # Format each row with consistent spacing
+            row = (
+                f"{idx:^4} "
                 f"{form_date:^12} "
-                f"{form_time} → {mit_time:^15} "
-                f"{direction:^8} "
-                f"{f'{fvg['gap_low']:.1f} - {fvg['gap_high']:.1f}':^30} "
-                f"{time_to_mit:^10}\n"
-            ))
+                f"{form_time:^10} "
+                f"{mit_date:^12} "
+                f"{mit_time:^10} "
+                f"{direction:^6} "
+                f"{f'{fvg['gap_low']:.1f}-{fvg['gap_high']:.1f}':^20} "
+                f"{time_to_mit:^8}"
+            )
+            sys.stdout.write(color(row + "\n"))
     
     def _display_statistics(self, bullish_fvgs: List[Dict[str, Any]], bearish_fvgs: List[Dict[str, Any]],
                           active_bullish: List[Dict[str, Any]], active_bearish: List[Dict[str, Any]]):
