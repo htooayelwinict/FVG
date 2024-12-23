@@ -15,7 +15,8 @@ class MitigationDetector:
         Args:
             candles: List of candlestick data, each candle containing Time, Open, High, Low, Close
         """
-        self.candles = candles
+        # Reverse the candles to get chronological order (oldest first)
+        self.candles = list(reversed(candles))
         # Pre-convert all timestamps once
         for candle in self.candles:
             candle['timestamp'] = datetime.datetime.strptime(candle['Time'], '%Y-%m-%d %H:%M:%S UTC').timestamp()
