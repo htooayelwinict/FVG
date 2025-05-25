@@ -1,0 +1,7 @@
+2025-01-03 21:47:27,600 - fvg_monitor - DEBUG - Initializing FVG Monitor
+2025-01-03 21:47:36,791 - fvg_monitor - DEBUG - Starting detection thread
+2025-01-03 21:47:36,791 - fvg_monitor - DEBUG - Detection cycle at 2025-01-03 15:17:36.791898+00:00
+2025-01-03 21:47:37,998 - fvg_monitor - DEBUG - Detection cycle at 2025-01-03 15:17:37.998004+00:00
+2025-01-03 21:47:39,199 - fvg_monitor - DEBUG - Detection cycle at 2025-01-03 15:17:39.199010+00:00
+2025-01-03 21:47:40,441 - fvg_monitor - DEBUG - Detection cycle at 2025-01-03 15:17:40.440989+00:00
+2025-01-03 21:47:41,743 - fvg_monitor - DEBUG - Detection cycle at 2025-01-03 15:17:41.743457+00:00

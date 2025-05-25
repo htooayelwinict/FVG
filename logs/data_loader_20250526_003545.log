@@ -1,0 +1,122 @@
+2025-05-26 00:35:45,770 - data_loader - DEBUG - Initializing BinanceDataLoader
+2025-05-26 00:35:55,421 - data_loader - DEBUG - Initializing BinanceDataLoader
+2025-05-26 00:35:55,696 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:35:55,710 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:35:55,985 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:35:56,274 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:35:56,576 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:35:56,821 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:35:56,861 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:35:57,154 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:35:57,438 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:35:57,727 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:35:57,925 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:35:58,020 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:35:58,302 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:35:58,592 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:35:58,880 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:35:59,033 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:35:59,166 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:35:59,452 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:35:59,735 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:00,022 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:00,139 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:00,307 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:00,595 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:00,883 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:01,181 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:01,277 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:01,472 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:01,758 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:02,046 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:02,337 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:02,450 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:02,646 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:02,935 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:03,225 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:03,511 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:03,564 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:03,803 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:04,087 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:04,368 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:04,652 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:04,673 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:04,933 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:05,226 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:05,513 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:05,781 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:05,799 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:06,082 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:06,368 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:06,652 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:06,890 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:06,938 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:07,229 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:07,514 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:07,806 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:08,007 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:08,102 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:08,388 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:08,677 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:08,982 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:09,119 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:09,265 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:09,553 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:09,845 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:10,134 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:10,240 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:10,424 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:10,704 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:10,990 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:11,280 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:11,352 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:11,567 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:11,853 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:12,144 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:12,429 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:12,464 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:12,719 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:13,002 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:13,291 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:13,573 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:13,580 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:13,872 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:14,161 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:14,455 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:14,682 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:14,742 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:15,027 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:15,313 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:15,595 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:15,781 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:15,881 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:16,166 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:16,448 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:16,736 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:16,904 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:17,021 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:17,315 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:17,604 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:17,885 - data_loader - DEBUG - Latest price for BTCUSDT: 106809.53
+2025-05-26 00:36:18,019 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:18,170 - data_loader - DEBUG - Latest price for BTCUSDT: 106809.52
+2025-05-26 00:36:18,454 - data_loader - DEBUG - Latest price for BTCUSDT: 106809.52
+2025-05-26 00:36:18,740 - data_loader - DEBUG - Latest price for BTCUSDT: 106809.52
+2025-05-26 00:36:19,029 - data_loader - DEBUG - Latest price for BTCUSDT: 106809.52
+2025-05-26 00:36:19,132 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:19,310 - data_loader - DEBUG - Latest price for BTCUSDT: 106809.52
+2025-05-26 00:36:19,596 - data_loader - DEBUG - Latest price for BTCUSDT: 106809.52
+2025-05-26 00:36:19,877 - data_loader - DEBUG - Latest price for BTCUSDT: 106809.53
+2025-05-26 00:36:20,164 - data_loader - DEBUG - Latest price for BTCUSDT: 106809.53
+2025-05-26 00:36:20,241 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:20,456 - data_loader - DEBUG - Latest price for BTCUSDT: 106809.53
+2025-05-26 00:36:20,741 - data_loader - DEBUG - Latest price for BTCUSDT: 106813.99
+2025-05-26 00:36:21,025 - data_loader - DEBUG - Latest price for BTCUSDT: 106813.99
+2025-05-26 00:36:21,311 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
+2025-05-26 00:36:21,360 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:21,602 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:21,892 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:22,174 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:22,468 - data_loader - DEBUG - Loaded 350 candles
+2025-05-26 00:36:22,479 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.31
+2025-05-26 00:36:22,773 - data_loader - DEBUG - Latest price for BTCUSDT: 106814.32
